@@ -1,0 +1,13 @@
+console = Ett globalt objekt som finns i javascript. En klump information som kan ha variabler eller funktioner på sig.
+log = en funktion i JS
+
+t.ex:
+console.log("hello world"); = Kallar på en funktion som skriver ut Hello World.
+
+En variabel är ett namn som har ett värde.
+
+const = får man inte skriva över
+let = får man skriva över
+var = får man skriva över
+
+en variabel deklareras = <flaggor> <namn> = <värde>
